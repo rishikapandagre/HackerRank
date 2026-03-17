@@ -30,13 +30,13 @@ Each solution file includes:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hackerrank.git
+   git clone https://github.com/rishikapandagre/HackerRank.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd hackerrank
+   cd HackerRank
    ```
 
 3. Open files in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, VS Code)
